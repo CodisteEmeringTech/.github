@@ -10,23 +10,25 @@
 -->
 
 <!-- ═══════════════════════════════════════════════════════ -->
-<!--                 HEADER — matches cover image            -->
+<!--   HEADER — white bg, logo LEFT, tagline RIGHT           -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<table width="100%" border="0" cellspacing="0" cellpadding="16" style="border-bottom: 1px solid #e5e7eb;">
+<table width="100%" border="0" cellspacing="0" cellpadding="20" bgcolor="#ffffff">
 <tr>
-<td width="50%" align="center" valign="middle">
+<td width="50%" align="left" valign="middle">
 
-**↗ Emerging Tech Partner for Startups to Enterprises**
+<img src="https://www.codiste.com/_next/image?url=%2Fassets%2Fimages%2Fcommon%2FHeader-black-logo.svg&w=48&q=75" height="72" alt="Codiste Logo"/>
 
 </td>
 <td width="50%" align="right" valign="middle">
 
-<img src="https://www.codiste.com/_next/image?url=%2Fassets%2Fimages%2Fcommon%2FHeader-black-logo.svg&w=48&q=75" height="36" alt="Codiste Logo"/>
+<span style="font-size:20px; font-weight:700; color:#000000;">↗ Emerging Tech Partner for Startups to Enterprises</span>
 
 </td>
 </tr>
 </table>
+
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-000000?style=flat-square" width="100%"/>
 
 <br/>
 
