@@ -9,13 +9,34 @@
 =============================================================
 -->
 
-<div align="center">
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                 HEADER — matches cover image            -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Codiste&fontSize=86&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Building%20Intelligence.%20Powering%20the%20Future.&descAlignY=62&descSize=18&descColor=7dd3fc" width="100%"/>
+<table width="100%" border="0" cellspacing="0" cellpadding="16" style="border-bottom: 1px solid #e5e7eb;">
+<tr>
+<td width="50%" align="center" valign="middle">
+
+**↗ Emerging Tech Partner for Startups to Enterprises**
+
+</td>
+<td width="50%" align="right" valign="middle">
+
+<img src="https://www.codiste.com/_next/image?url=%2Fassets%2Fimages%2Fcommon%2FHeader-black-logo.svg&w=48&q=75" height="36" alt="Codiste Logo"/>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1200&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=52&lines=AI+%7C+Blockchain+%7C+Machine+Learning+%7C+AR%2FVR+%7C+Full+Stack;Enterprise+solutions+across+29%2B+countries+since+2019)](https://git.io/typing-svg)
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                 TYPING + BADGES                         -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1200&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=52&lines=AI+%7C+Blockchain+%7C+Machine+Learning+%7C+Full+Stack;Enterprise+solutions+across+29%2B+countries+since+2019)](https://git.io/typing-svg)
 
 <br/>
 
@@ -142,7 +163,6 @@ We don't build generic software. We craft intelligent systems that understand th
 |:---|:---|:---:|
 | **Adaptive Learning Platform** | AI-driven curriculum system that personalizes learning paths in real-time based on student performance and engagement data. | [🔗 View](#) |
 | **Automated Assessment Engine** | ML-powered grading for written assignments — NLP-based rubric scoring and intelligent feedback generation. | [🔗 View](#) |
-| **AR Classroom App** | WebAR app bringing 3D science and history content into classrooms — works browser-based with no install required. | [🔗 View](#) |
 | **AI Tutoring Chatbot** | Conversational AI tutor for K-12 and university students — explains concepts, answers questions and tracks weak areas. | [🔗 View](#) |
 
 ---
@@ -151,7 +171,6 @@ We don't build generic software. We craft intelligent systems that understand th
 
 | Project | Description | Link |
 |:---|:---|:---:|
-| **AR Home Decor Visualizer** | WebAR tool that lets users place furniture and décor in their real space using a mobile browser — zero app download needed. | [🔗 View](#) |
 | **Property Tokenization Engine** | RWA platform for fractional real estate ownership — smart contracts handle investor onboarding, dividends and transfers. | [🔗 View](#) |
 | **AI Property Intelligence Tool** | ML model predicting property valuations, rental yields and neighborhood growth scores using 50+ live data signals. | [🔗 View](#) |
 | **Real Estate CRM with AI** | Smart CRM for property agencies with lead scoring, automated follow-ups and AI-generated property descriptions. | [🔗 View](#) |
@@ -162,9 +181,9 @@ We don't build generic software. We craft intelligent systems that understand th
 
 | Project | Description | Link |
 |:---|:---|:---:|
-| **Event AR Experience App** | Cross-platform React Native app with live AR overlays for events — scan venue to unlock schedules, maps and speaker info. | [🔗 View](#) |
+| **Event Experience App** | Cross-platform React Native app with live overlays for events — scan venue to unlock schedules, maps and speaker info. | [🔗 View](#) |
 | **Healthcare Patient App** | HIPAA-compliant mobile app for appointment booking, AI symptom checker, medical records and teleconsultation. | [🔗 View](#) |
-| **Sports Fan Engagement App** | React Native app with live stats, NFT collectibles, prediction games and player AR cards for sports fans. | [🔗 View](#) |
+| **Sports Fan Engagement App** | React Native app with live stats, NFT collectibles, prediction games and player cards for sports fans. | [🔗 View](#) |
 | **Crypto Portfolio Tracker** | Mobile app tracking DeFi positions, NFT holdings and wallet balances across 15+ chains in real time. | [🔗 View](#) |
 
 ---
