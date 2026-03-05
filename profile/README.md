@@ -5,16 +5,11 @@
 -->
 <div align="center">
 
-<table width="100%" border="0" cellspacing="0" cellpadding="20" bgcolor="#ffffff">
-<tr>
-<td align="left" valign="middle">
 
-<img width="1141" height="250" alt="image" src="https://github.com/user-attachments/assets/5dc4e344-81ce-4d5c-b0ff-7084666f4c59" alt="Codiste Logo" style="filter: invert(18%) sepia(99%) saturate(7473%) hue-rotate(359deg) brightness(96%) contrast(117%);"/>
 
-</td>
+<img height="200" alt="image" src="https://github.com/user-attachments/assets/5dc4e344-81ce-4d5c-b0ff-7084666f4c59" alt="Codiste Logo" style="filter: invert(18%) sepia(99%) saturate(7473%) hue-rotate(359deg) brightness(96%) contrast(117%);"/>
 
-</tr>
-</table>
+
 </div>
 
 
