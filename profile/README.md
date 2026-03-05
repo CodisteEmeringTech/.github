@@ -17,7 +17,7 @@
 <tr>
 <td width="50%" align="left" valign="middle">
 
-<img src="https://www.codiste.com/_next/image?url=%2Fassets%2Fimages%2Fcommon%2FHeader-black-logo.svg&w=48&q=75" height="72" alt="Codiste Logo"/>
+<img src="https://www.codiste.com/_next/image?url=%2Fassets%2Fimages%2Fcommon%2FHeader-black-logo.svg&w=48&q=75" height="300" alt="Codiste Logo"/>
 
 </td>
 <td width="50%" align="right" valign="middle">
