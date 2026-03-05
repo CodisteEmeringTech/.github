@@ -2,22 +2,13 @@
 =============================================================
   CODISTE — GitHub Organization Profile README
 =============================================================
-  SETUP:
-  1. Create a public repo named exactly:  .github
-  2. Create the path:  profile/README.md
-  3. Paste this file → your org homepage is live!
-=============================================================
 -->
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--   HEADER — white bg, logo LEFT (red), tagline RIGHT     -->
-<!-- ═══════════════════════════════════════════════════════ -->
 <div align="center">
 <table width="100%" border="0" cellspacing="0" cellpadding="20" bgcolor="#ffffff">
 <tr>
 <td align="left" valign="middle">
 
-<img src="https://www.codiste.com/_next/image?url=%2Fassets%2Fimages%2Fcommon%2FHeader-black-logo.svg&w=48&q=75" height="72" alt="Codiste Logo" style="filter: invert(18%) sepia(99%) saturate(7473%) hue-rotate(359deg) brightness(96%) contrast(117%);"/>
+<img width="1541" height="466" alt="image" src="https://github.com/user-attachments/assets/5dc4e344-81ce-4d5c-b0ff-7084666f4c59" alt="Codiste Logo" style="filter: invert(18%) sepia(99%) saturate(7473%) hue-rotate(359deg) brightness(96%) contrast(117%);"/>
 
 </td>
 <td align="right" valign="middle">
