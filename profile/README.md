@@ -218,6 +218,6 @@ We don't build generic software. We craft intelligent systems that understand th
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer&animation=fadeIn" width="100%"/>
 
-**© 2025 Codiste · info@codiste.com · [codiste.com](https://www.codiste.com)**
+**© 2026 Codiste · Nishant@codiste.com · [codiste.com](https://www.codiste.com)**
 
 </div>
