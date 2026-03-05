@@ -7,7 +7,7 @@
 
 
 
-<img height="200" alt="image" src="https://github.com/user-attachments/assets/5dc4e344-81ce-4d5c-b0ff-7084666f4c59" alt="Codiste Logo" style="filter: invert(18%) sepia(99%) saturate(7473%) hue-rotate(359deg) brightness(96%) contrast(117%);"/>
+<img height="150" alt="image" src="https://github.com/user-attachments/assets/5dc4e344-81ce-4d5c-b0ff-7084666f4c59" alt="Codiste Logo" style="filter: invert(18%) sepia(99%) saturate(7473%) hue-rotate(359deg) brightness(96%) contrast(117%);"/>
 
 
 </div>
