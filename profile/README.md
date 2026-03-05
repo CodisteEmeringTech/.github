@@ -31,7 +31,7 @@
 &nbsp;
 <a href="https://twitter.com/codiste_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 &nbsp;
-<a href="mailto:contact@codiste.com"><img src="https://img.shields.io/badge/contact@codiste.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:info@codiste.com"><img src="https://img.shields.io/badge/info@codiste.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br/><br/>
 
@@ -219,6 +219,6 @@ We don't build generic software. We craft intelligent systems that understand th
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer&animation=fadeIn" width="100%"/>
 
-**© 2025 Codiste · contact@codiste.com · [codiste.com](https://www.codiste.com)**
+**© 2025 Codiste · info@codiste.com · [codiste.com](https://www.codiste.com)**
 
 </div>
