@@ -120,9 +120,6 @@ We don't build generic software. We craft intelligent systems that understand th
 
 | Project | Description | Link |
 |:---|:---|:---:|
-| **CounterTen — Solana Marketplace** | Full-featured NFT marketplace on Solana. Supports minting, listing, bidding and royalty distribution with Metaplex integration. | [View](#) |
-| **Tankpad — BNB Chain Minting** | Token launchpad and NFT minting platform on BNB Chain with whitelist management and gas-optimized smart contracts. | [View](#) |
-| **CoinxPad Launchpad** | IDO launchpad with tier-based allocation, smart contract vesting schedules and multi-chain token deployment. | [View](#) |
 | **DeFi Yield Protocol** | Decentralized yield aggregation protocol with automated rebalancing strategies, on-chain governance and LP staking. | [View](#) |
 | **RWA Tokenization Platform** | Real-world asset tokenization supporting fractional ownership of property, invoices and bonds via ERC-1400 standard. | [View](#) |
 | **Supply Chain Ledger** | Permissioned blockchain for supply chain provenance tracking built on Hyperledger Fabric with REST API integration. | [View](#) |
