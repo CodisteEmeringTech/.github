@@ -121,9 +121,9 @@ We don't build generic software. We craft intelligent systems that understand th
 | Project | Description | Link |
 |:---|:---|:---:|
 | **DeFi Yield Protocol** | Decentralized yield aggregation protocol with automated rebalancing strategies, on-chain governance and LP staking. | [View](https://github.com/CodisteEmeringTech/CodisteEmeringTech-neo-bank-defi-credit-score) |
-| **RWA Tokenization Platform** | Real-world asset tokenization supporting fractional ownership of property, invoices and bonds via ERC-1400 standard. | [View](https://github.com/BloackchaindevCodiste/fraud-detection) |
-| **Supply Chain Ledger** | Permissioned blockchain for supply chain provenance tracking built on Hyperledger Fabric with REST API integration. | [View](https://github.com/BloackchaindevCodiste/buburuza-defi-credit-score) |
-| **Web3 Security Dashboard** | On-chain transaction monitoring and smart contract vulnerability scanner with real-time alerting for Web3 security teams. | [View](https://github.com/BloackchaindevCodiste/fraud-detection) |
+| **RWA Tokenization Platform** | Real-world asset tokenization supporting fractional ownership of property, invoices and bonds via ERC-1400 standard. | [View](https://github.com/CodisteEmeringTech/neo-bank-fraud-detection) |
+| **Supply Chain Ledger** | Permissioned blockchain for supply chain provenance tracking built on Hyperledger Fabric with REST API integration. | [View](https://github.com/CodisteEmeringTech/CodisteEmeringTech-neo-bank-defi-credit-score) |
+| **Web3 Security Dashboard** | On-chain transaction monitoring and smart contract vulnerability scanner with real-time alerting for Web3 security teams. | [View](https://github.com/CodisteEmeringTech/neo-bank-fraud-detection) |
 
 ---
 
@@ -132,7 +132,7 @@ We don't build generic software. We craft intelligent systems that understand th
 | Project | Description | Link |
 |:---|:---|:---:|
 | **AI Fraud Detection Engine** | Real-time ML fraud detection for payment transactions using gradient boosting and anomaly detection with sub-100ms inference. | [View](https://github.com/CodisteEmeringTech/neo-bank-fraud-detection) |
-| **Algorithmic Trading Platform** | AI-driven trading system with predictive analytics, backtesting engine and live execution via brokerage APIs. | [View](https://github.com/BloackchaindevCodiste/fraud-detection) |
+| **Algorithmic Trading Platform** | AI-driven trading system with predictive analytics, backtesting engine and live execution via brokerage APIs. | [View](https://github.com/CodisteEmeringTech/neo-bank-fraud-detection) |
 | **Digital Lending Platform** | End-to-end loan origination with AI credit scoring, automated underwriting and KYC/AML compliance. | [View](https://github.com/CodisteEmeringTech/CodisteEmeringTech-neo-bank-defi-credit-score) |
 | **Personal Finance AI App** | Smart budgeting and investment recommendation app with open banking integration and AI-powered financial insights. | [View](https://github.com/CodisteEmeringTech/neobank-voice-chat) |
 
@@ -164,8 +164,8 @@ We don't build generic software. We craft intelligent systems that understand th
 |:---|:---|:---:|
 | **Event Experience App** | Cross-platform React Native app with live overlays for events — scan venue to unlock schedules, maps and speaker info. | [View](https://github.com/CodisteEmeringTech/CodisteEmeringTech-neo-bank-defi-credit-score) |
 | **Healthcare Patient App** | HIPAA-compliant mobile app for appointment booking, AI symptom checker, medical records and teleconsultation. | [View](https://github.com/CodisteEmeringTech/cartesia-backend.git) |
-| **Sports Fan Engagement App** | React Native app with live stats, NFT collectibles, prediction games and player cards for sports fans. | [View](https://github.com/BloackchaindevCodiste/buburuza-defi-credit-score) |
-| **Crypto Portfolio Tracker** | Mobile app tracking DeFi positions, NFT holdings and wallet balances across 15+ chains in real time. | [View](https://github.com/BloackchaindevCodiste/fraud-detection) |
+| **Sports Fan Engagement App** | React Native app with live stats, NFT collectibles, prediction games and player cards for sports fans. | [View](https://github.com/CodisteEmeringTech/CodisteEmeringTech-neo-bank-defi-credit-score) |
+| **Crypto Portfolio Tracker** | Mobile app tracking DeFi positions, NFT holdings and wallet balances across 15+ chains in real time. | [View](https://github.com/CodisteEmeringTech/neo-bank-fraud-detection) |
 
 ---
 
@@ -173,7 +173,7 @@ We don't build generic software. We craft intelligent systems that understand th
 
 | Project | Description | Link |
 |:---|:---|:---:|
-| **Predictive Diagnostics Engine** | ML model trained on clinical data for early detection of chronic conditions — integrated with EHR via HL7 FHIR. | [View](https://github.com/BloackchaindevCodiste/fraud-detection) |
+| **Predictive Diagnostics Engine** | ML model trained on clinical data for early detection of chronic conditions — integrated with EHR via HL7 FHIR. | [View](https://github.com/CodisteEmeringTech/neo-bank-fraud-detection) |
 | **AI Patient Personalization** | Treatment pathway recommendation engine using patient history, lab results and population data to surface optimal care plans. | [View](https://github.com/CodisteEmeringTech/cartesia-backend.git) |
 | **Medical Compliance Automation** | AI-powered document processing and compliance checker for HIPAA, GDPR and FDA regulatory requirements. | [View](https://github.com/CodisteEmeringTech/cartesia-backend.git) |
 
@@ -183,8 +183,8 @@ We don't build generic software. We craft intelligent systems that understand th
 
 | Project | Description | Link |
 |:---|:---|:---:|
-| **ML Estimation Tool** | SaaS platform for construction and logistics — ML-based project cost and timeline estimation with scenario modeling. | [View](https://github.com/BloackchaindevCodiste/buburuza-defi-credit-score) |
-| **HR Recruitment AI Platform** | Full-stack SaaS with AI resume screening, candidate ranking, interview scheduling and bias-detection scoring. | [View](https://github.com/BloackchaindevCodiste/buburuza-reap-card) |
+| **ML Estimation Tool** | SaaS platform for construction and logistics — ML-based project cost and timeline estimation with scenario modeling. | [View](https://github.com/CodisteEmeringTech/CodisteEmeringTech-neo-bank-defi-credit-score) |
+| **HR Recruitment AI Platform** | Full-stack SaaS with AI resume screening, candidate ranking, interview scheduling and bias-detection scoring. | [View](https://github.com/CodisteEmeringTech/cartesia-livekit) |
 | **Multi-Tenant SaaS Boilerplate** | Production-ready Next.js + Node.js multi-tenant starter with auth, Stripe billing, RBAC and CI/CD pipelines. | [View](https://github.com/CodisteEmeringTech/neobank-voice-chat) |
 | **B2B Analytics Dashboard** | Real-time BI dashboard with custom report builder, AI anomaly detection and automated alerting. | [View](https://github.com/CodisteEmeringTech/cartesia-livekit) |
 
@@ -194,7 +194,7 @@ We don't build generic software. We craft intelligent systems that understand th
 
 | Project | Description | Link |
 |:---|:---|:---:|
-| **Carbon Credit Blockchain** | Platform for issuing, trading and retiring verified carbon credits — fully auditable on-chain ledger. | [View](https://github.com/BloackchaindevCodiste/fraud-detection) |
+| **Carbon Credit Blockchain** | Platform for issuing, trading and retiring verified carbon credits — fully auditable on-chain ledger. | [View](https://github.com/CodisteEmeringTech/neo-bank-fraud-detection) |
 | **Smart Grid Optimization AI** | ML system for energy demand forecasting and automated grid load balancing for utility providers. | [View](https://github.com/CodisteEmeringTech/cartesia-backend.git) |
 
 ---
