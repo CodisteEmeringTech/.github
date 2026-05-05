@@ -12,6 +12,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6d28d9&height=220&section=header&text=Codiste&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=AI-First%20Engineering%20%E2%80%A2%20Since%202019&descAlignY=55&descSize=18" width="100%"/>
 </picture>
 
+<br/>
+
+<img height="120" alt="Codiste Logo" src="https://github.com/user-attachments/assets/5dc4e344-81ce-4d5c-b0ff-7084666f4c59"/>
+
 </div>
 
 <p align="center">
@@ -133,28 +137,47 @@ Our repositories represent production-grade AI solutions across multiple domains
 
 ---
 
-## Project Ecosystem
+## AI-SDLC System Architecture
+
+> Our end-to-end AI development lifecycle — from data ingestion to production deployment.
 
 ```
-                              CODISTE AI ECOSYSTEM
-     ───────────────────────────────────────────────────────────────
+  ┌─────────────────────────────────────────────────────────────────────────┐
+  │                        CODISTE AI-SDLC PIPELINE                        │
+  └─────────────────────────────────────────────────────────────────────────┘
 
-     LLM & RAG                Computer Vision         Voice AI
-     ─────────                ───────────────         ────────
-     CSV-GPT-Bot              Shoplift Detection      Neobank Voice Chat
-     DocsGPT                  Vision Proctoring       Cartesia LiveKit
-     SalesAI                  Disc Defect Tracker
-     MCP Connect SDK          Road Hazard Detection
-     Feasibility Pro
-
-     FinTech AI               Retail AI
-     ──────────               ─────────
-     Fraud Detection          Zero Quebra
-     DeFi Credit Score
-     Reap Card
-
-     ───────────────────────────────────────────────────────────────
-     15+ repositories  ·  5 domains  ·  Production-grade AI systems
+  ┌──────────────┐    ┌──────────────┐    ┌──────────────┐    ┌────────────┐
+  │  1. INGEST   │───>│  2. PROCESS  │───>│  3. MODEL    │───>│ 4. DEPLOY  │
+  │              │    │              │    │              │    │            │
+  │  CSV / Docs  │    │  NLP / OCR   │    │  Train &     │    │  FastAPI   │
+  │  Audio / Vid │    │  Embeddings  │    │  Fine-tune   │    │  Next.js   │
+  │  Real-time   │    │  Vector DB   │    │  Evaluate    │    │  Edge/SSE  │
+  └──────────────┘    └──────────────┘    └──────────────┘    └────────────┘
+         │                   │                   │                   │
+         ▼                   ▼                   ▼                   ▼
+  ┌─────────────────────────────────────────────────────────────────────────┐
+  │                         AI SOLUTION DOMAINS                            │
+  ├─────────────────┬─────────────────┬────────────────┬────────────────────┤
+  │  LLM & RAG      │ Computer Vision │   Voice AI     │   FinTech AI      │
+  │                 │                 │                │                    │
+  │  CSV-GPT-Bot    │ Shoplift Det.   │ Neobank Voice  │ Fraud Detection   │
+  │  DocsGPT        │ Vision Proctor  │ Cartesia LK    │ DeFi Credit Score │
+  │  SalesAI        │ Defect Tracker  │                │ Reap Card         │
+  │  MCP SDK        │ Road Hazard     │                │                    │
+  │  Feasibility    │                 │                │                    │
+  └─────────────────┴─────────────────┴────────────────┴────────────────────┘
+         │                   │                   │                   │
+         └───────────────────┴───────────────────┴───────────────────┘
+                                     │
+                          ┌──────────▼──────────┐
+                          │   5. MONITOR &      │
+                          │      ITERATE        │
+                          │                     │
+                          │   Real-time alerts  │
+                          │   KPI dashboards    │
+                          │   Model retraining  │
+                          │   Continuous deploy │
+                          └─────────────────────┘
 ```
 
 ---
