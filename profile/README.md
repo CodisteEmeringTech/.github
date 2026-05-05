@@ -1,6 +1,6 @@
 <!--
 ═══════════════════════════════════════════════════════════════
-  CODISTE — AI-First Technology Company
+  CODISTE - AI-First Technology Company
 ═══════════════════════════════════════════════════════════════
 -->
 
@@ -36,7 +36,7 @@
 
 ## About Us
 
-**Codiste** is a premier AI development company headquartered in the **USA** with engineering in **Ahmedabad, India**. We build intelligent systems — computer vision pipelines, voice AI agents, RAG-powered knowledge engines, and real-time ML solutions — deployed across FinTech, Retail, Manufacturing, and Enterprise domains in **29+ countries**.
+**Codiste** is a premier AI development company headquartered in the **USA** with engineering in **Ahmedabad, India**. We build intelligent systems - computer vision pipelines, voice AI agents, RAG-powered knowledge engines, and real-time ML solutions - deployed across FinTech, Retail, Manufacturing, and Enterprise domains in **29+ countries**.
 
 We don't build generic software. We craft AI systems that understand the nuances of your industry and compound your competitive advantage over time.
 
@@ -91,10 +91,10 @@ Our repositories represent production-grade AI solutions across multiple domains
 
 | Project | Description | GitHub |
 |:---|:---|:---:|
-| **CSV-GPT-Bot** | Financial data analysis tool — upload CSV/Excel files and query them in natural language. Generates 15+ chart types including 3D, heatmaps, violin plots. Built with FastAPI + Flutter + OpenAI. | [Repo](https://github.com/CodisteEmeringTech/CSV-GPT-Bot) |
-| **DocsGPT** | Document-based AI Q&A engine — upload any document and interact with its content through natural language queries using RAG architecture. Python + LangChain + OpenAI. | [Repo](https://github.com/CodisteEmeringTech/DocsGPT) |
-| **SalesAI** | Extract key insights from meeting recordings — auto-summarization, customer analysis, budget extraction, and a chatbot for querying meeting content via ChromaDB vector search. FastAPI + Flutter + AssemblyAI. | [Repo](https://github.com/CodisteEmeringTech/SalesAI) |
-| **Router MCP Connect SDK** | SDK for embedding Model Context Protocol (MCP) provider connections into any web app. Published as `@routemcp/connect-sdk` npm package — part of the RouteMCP ecosystem. TypeScript + React. | [Repo](https://github.com/CodisteEmeringTech/router-mcp-connect-sdk) |
+| **CSV-GPT-Bot** | Financial data analysis tool - upload CSV/Excel files and query them in natural language. Generates 15+ chart types including 3D, heatmaps, violin plots. Built with FastAPI + Flutter + OpenAI. | [Repo](https://github.com/CodisteEmeringTech/CSV-GPT-Bot) |
+| **DocsGPT** | Document-based AI Q&A engine - upload any document and interact with its content through natural language queries using RAG architecture. Python + LangChain + OpenAI. | [Repo](https://github.com/CodisteEmeringTech/DocsGPT) |
+| **SalesAI** | Extract key insights from meeting recordings - auto-summarization, customer analysis, budget extraction, and a chatbot for querying meeting content via ChromaDB vector search. FastAPI + Flutter + AssemblyAI. | [Repo](https://github.com/CodisteEmeringTech/SalesAI) |
+| **Router MCP Connect SDK** | SDK for embedding Model Context Protocol (MCP) provider connections into any web app. Published as `@routemcp/connect-sdk` npm package - part of the RouteMCP ecosystem. TypeScript + React. | [Repo](https://github.com/CodisteEmeringTech/router-mcp-connect-sdk) |
 | **Feasibility Pro** | AI-powered project feasibility assessment platform with intelligent analysis and recommendations. React + TypeScript + Vite + Tailwind + shadcn/ui. | [Repo](https://github.com/CodisteEmeringTech/feasibility-pro) |
 
 ---
@@ -104,8 +104,8 @@ Our repositories represent production-grade AI solutions across multiple domains
 | Project | Description | GitHub |
 |:---|:---|:---:|
 | **Shoplift Detection** | Real-time shoplifting detection using video analysis. Supports uploaded video and live streams with bounding boxes, confidence scores, and high-confidence clip extraction. Flask + Streamlit + MobileNetV3 + YOLO + GRU-RNN. | [Repo](https://github.com/CodisteEmeringTech/Shoplift_Detection) |
-| **Vision Proctoring** | AI-powered remote interview monitoring — detects multiple faces, tracks eye movements, and monitors head positions to ensure fair and secure processes. Python + PyQt6 + OpenCV + TensorFlow. | [Repo](https://github.com/CodisteEmeringTech/VisionProctoring) |
-| **Disc Defect Tracker** | Real-time visual inspection for manufacturing lines. Zero-shot defect detection on conveyor-belt feeds — identifies cracks, porosity, dents, and scratches with streaming bounding boxes. FastAPI + Next.js 14 + YOLO-World + SSE. | [Repo](https://github.com/CodisteEmeringTech/disc-defect-tracker) |
+| **Vision Proctoring** | AI-powered remote interview monitoring - detects multiple faces, tracks eye movements, and monitors head positions to ensure fair and secure processes. Python + PyQt6 + OpenCV + TensorFlow. | [Repo](https://github.com/CodisteEmeringTech/VisionProctoring) |
+| **Disc Defect Tracker** | Real-time visual inspection for manufacturing lines. Zero-shot defect detection on conveyor-belt feeds - identifies cracks, porosity, dents, and scratches with streaming bounding boxes. FastAPI + Next.js 14 + YOLO-World + SSE. | [Repo](https://github.com/CodisteEmeringTech/disc-defect-tracker) |
 | **Road Hazard Detection** | Computer vision system for detecting road hazards including potholes, debris, and dangerous conditions in real-time for safer driving. Python + OpenCV + Deep Learning. | [Repo](https://github.com/CodisteEmeringTech/Road-hazard-detection) |
 
 ---
@@ -114,7 +114,7 @@ Our repositories represent production-grade AI solutions across multiple domains
 
 | Project | Description | GitHub |
 |:---|:---|:---:|
-| **Neobank Voice Chat** | Real-time voice AI agent for banking — enables natural voice conversations with connection status indicators and responsive UI powered by ElevenLabs. React + TypeScript + Vite + Tailwind. | [Repo](https://github.com/CodisteEmeringTech/neobank-voice-chat) |
+| **Neobank Voice Chat** | Real-time voice AI agent for banking - enables natural voice conversations with connection status indicators and responsive UI powered by ElevenLabs. React + TypeScript + Vite + Tailwind. | [Repo](https://github.com/CodisteEmeringTech/neobank-voice-chat) |
 | **Cartesia LiveKit** | Voice/Audio AI integration combining Cartesia's text-to-speech engine with LiveKit's real-time communication infrastructure for low-latency conversational experiences. | [Repo](https://github.com/CodisteEmeringTech/cartesia-livekit) |
 
 ---
@@ -124,7 +124,7 @@ Our repositories represent production-grade AI solutions across multiple domains
 | Project | Description | GitHub |
 |:---|:---|:---:|
 | **Neo Bank Fraud Detection** | ML-powered real-time fraud detection for neobank transactions with anomaly detection, pattern recognition, and sub-100ms inference. | [Repo](https://github.com/CodisteEmeringTech/neo-bank-fraud-detection) |
-| **DeFi Credit Score** | AI-driven credit scoring — computes creditworthiness from on-chain activity and decentralized finance data for modern banking applications. | [Repo](https://github.com/CodisteEmeringTech/CodisteEmeringTech-neo-bank-defi-credit-score) |
+| **DeFi Credit Score** | AI-driven credit scoring - computes creditworthiness from on-chain activity and decentralized finance data for modern banking applications. | [Repo](https://github.com/CodisteEmeringTech/CodisteEmeringTech-neo-bank-defi-credit-score) |
 | **Neo Bank Reap Card** | Neobank card management system with virtual/physical card issuance, rewards functionality, and modern payment infrastructure. | [Repo](https://github.com/CodisteEmeringTech/neo-bank-reap-card) |
 
 ---
@@ -139,7 +139,7 @@ Our repositories represent production-grade AI solutions across multiple domains
 
 ## AI-SDLC System Architecture
 
-> Our end-to-end AI development lifecycle — from data ingestion to production deployment.
+> Our end-to-end AI development lifecycle - from data ingestion to production deployment.
 
 ```
   ┌─────────────────────────────────────────────────────────────────────────┐
@@ -186,7 +186,7 @@ Our repositories represent production-grade AI solutions across multiple domains
 
 ### Let's Build Together
 
-Whether you need **AI-powered automation**, **real-time computer vision**, or **voice-enabled interfaces** — we've shipped it in production.
+Whether you need **AI-powered automation**, **real-time computer vision**, or **voice-enabled interfaces** - we've shipped it in production.
 
 <br/>
 
