@@ -7,9 +7,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6d28d9&height=220&section=header&text=Codiste&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=AI-First%20Engineering%20%E2%80%A2%20Since%202019&descAlignY=55&descSize=18&descColor=c9d1d9">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,100:0ea5e9&height=220&section=header&text=Codiste&fontSize=80&fontColor=1a1a2e&animation=fadeIn&fontAlignY=32&desc=AI-First%20Engineering%20%E2%80%A2%20Since%202019&descAlignY=55&descSize=18&descColor=333333">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6d28d9&height=220&section=header&text=Codiste&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=AI-First%20Engineering%20%E2%80%A2%20Since%202019&descAlignY=55&descSize=18" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:00d2ff,50:7b2ff7,100:c471f5&height=220&section=header&text=Codiste&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=AI-First%20Engineering%20%E2%80%A2%20Since%202019&descAlignY=55&descSize=18&descColor=e0e0e0">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,50:4a00e0,100:8e2de2&height=220&section=header&text=Codiste&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=AI-First%20Engineering%20%E2%80%A2%20Since%202019&descAlignY=55&descSize=18&descColor=ffffff">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d2ff,50:7b2ff7,100:c471f5&height=220&section=header&text=Codiste&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=AI-First%20Engineering%20%E2%80%A2%20Since%202019&descAlignY=55&descSize=18" width="100%"/>
 </picture>
 
 <br/>
@@ -201,9 +201,9 @@ Whether you need **AI-powered automation**, **real-time computer vision**, or **
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,100:0ea5e9&height=120&section=footer&animation=fadeIn">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6d28d9&height=120&section=footer&animation=fadeIn">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,100:0ea5e9&height=120&section=footer&animation=fadeIn" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:c471f5,50:7b2ff7,100:00d2ff&height=120&section=footer&animation=fadeIn">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,50:4a00e0,100:1e3a5f&height=120&section=footer&animation=fadeIn">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c471f5,50:7b2ff7,100:00d2ff&height=120&section=footer&animation=fadeIn" width="100%"/>
 </picture>
 
 **© 2026 Codiste · Nishant@codiste.com · [codiste.com](https://www.codiste.com)**
