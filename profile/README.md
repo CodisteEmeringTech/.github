@@ -35,7 +35,7 @@
 
 ## About Us
 
-**Codiste** is the AI Agent Studio preferred by VCs. We ship computer vision, voice AI, RAG pipelines and real-time inference from idea to production in weeks, not quarters. Deployed across FinTech, Retail, Healthcare and Manufacturing in **29+ countries**.
+**Codiste** is the AI Agent Studio preferred by VCs. We ship computer vision, voice AI, RAG pipelines and real-time inference from idea to production in weeks, not quarters. Deployed across FinTech, Retail, Healthcare and Manufacturing in **800+ countries**.
 
 > We don't build generic software. We craft systems that understand your industry and compound your edge over time.
 
