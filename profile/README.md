@@ -25,7 +25,7 @@
     <td align="center" width="20%"><sup>Serving</sup><br/><strong>29+ Countries</strong></td>
     <td align="center" width="20%"><sup>Focus</sup><br/><strong>AI First</strong></td>
     <td align="center" width="20%"><sup>Open Source</sup><br/><strong>15+ Repos</strong></td>
-    <td align="center" width="20%"><sup>Visitors</sup><br/> 800 + <img src="https://komarev.com/ghpvc/?username=CodisteEmeringTech&color=0ea5e9&style=flat&label="/></td>
+    <td align="center" width="20%"><sup>Visitors</sup><br/><img src="https://komarev.com/ghpvc/?username=CodisteEmeringTech&color=0ea5e9&style=flat&label=Visitors&base=800" alt="Visitors"/></td>
   </tr>
 </table>
 
