@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 248" width="100%">
+<defs>
+  <clipPath id="footerClip">
+    <rect width="900" height="248" rx="16" ry="16"/>
+  </clipPath>
+</defs>
+<g clip-path="url(#footerClip)">
+
+  <!-- Background -->
+  <rect width="900" height="248" fill="#0d1117"/>
+
+  <!-- Top blue accent line -->
+  <rect x="0" y="0" width="900" height="3" fill="#0ea5e9"/>
+
+  <!-- READY TO SHIP? label -->
+  <text x="450" y="44" text-anchor="middle"
+    font-family="Arial,sans-serif" font-size="11" font-weight="700"
+    fill="#0ea5e9" letter-spacing="2">READY TO SHIP?</text>
+
+  <!-- Let's Build Together heading -->
+  <text x="450" y="78" text-anchor="middle"
+    font-family="Arial,sans-serif" font-size="26" font-weight="800"
+    fill="#e6edf3">Let's Build Together</text>
+
+  <!-- Subtitle -->
+  <text x="450" y="104" text-anchor="middle"
+    font-family="Arial,sans-serif" font-size="13" fill="#8b949e">
+    Whether you need AI automation, real-time computer vision, or voice AI — we've shipped it in production.
+  </text>
+
+  <!-- ── Stat Cards ── -->
+
+  <!-- Card 1: Countries -->
+  <rect x="40" y="126" width="190" height="82" rx="8"
+    fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <!-- Globe icon (Feather) centered at x=135, y=147 — 22×22 from 24×24 src -->
+  <g transform="translate(124,136) scale(0.9167)" fill="none" stroke="#8b949e" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="12" cy="12" r="10"/>
+    <line x1="2" y1="12" x2="22" y2="12"/>
+    <path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/>
+  </g>
+  <text x="135" y="177" text-anchor="middle"
+    font-family="Arial,sans-serif" font-size="10" fill="#8b949e" letter-spacing="1.5">COUNTRIES</text>
+  <text x="135" y="198" text-anchor="middle"
+    font-family="Arial,sans-serif" font-size="20" font-weight="800" fill="#e6edf3">29+</text>
+
+  <!-- Card 2: Open Source -->
+  <rect x="244" y="126" width="190" height="82" rx="8"
+    fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <!-- Package icon (Feather) centered at x=339, y=147 -->
+  <g transform="translate(328,136) scale(0.9167)" fill="none" stroke="#8b949e" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+    <line x1="16.5" y1="9.4" x2="7.5" y2="4.21"/>
+    <path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"/>
+    <polyline points="3.27 6.96 12 12.01 20.73 6.96"/>
+    <line x1="12" y1="22.08" x2="12" y2="12"/>
+  </g>
+  <text x="339" y="177" text-anchor="middle"
+    font-family="Arial,sans-serif" font-size="10" fill="#8b949e" letter-spacing="1.5">OPEN SOURCE</text>
+  <text x="339" y="198" text-anchor="middle"
+    font-family="Arial,sans-serif" font-size="20" font-weight="800" fill="#e6edf3">15+ Repos</text>
+
+  <!-- Card 3: Delivery -->
+  <rect x="448" y="126" width="190" height="82" rx="8"
+    fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <!-- Zap icon (Feather) centered at x=543, y=147 -->
+  <g transform="translate(532,136) scale(0.9167)" fill="none" stroke="#8b949e" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+    <polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/>
+  </g>
+  <text x="543" y="177" text-anchor="middle"
+    font-family="Arial,sans-serif" font-size="10" fill="#8b949e" letter-spacing="1.5">DELIVERY</text>
+  <text x="543" y="198" text-anchor="middle"
+    font-family="Arial,sans-serif" font-size="14" font-weight="800" fill="#e6edf3">Weeks not quarters</text>
+
+  <!-- Card 4: Focus -->
+  <rect x="652" y="126" width="190" height="82" rx="8"
+    fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <!-- CPU icon (Feather) centered at x=747, y=147 -->
+  <g transform="translate(736,136) scale(0.9167)" fill="none" stroke="#8b949e" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="4" y="4" width="16" height="16" rx="2" ry="2"/>
+    <rect x="9" y="9" width="6" height="6"/>
+    <line x1="9" y1="1" x2="9" y2="4"/>
+    <line x1="15" y1="1" x2="15" y2="4"/>
+    <line x1="9" y1="20" x2="9" y2="23"/>
+    <line x1="15" y1="20" x2="15" y2="23"/>
+    <line x1="20" y1="9" x2="23" y2="9"/>
+    <line x1="20" y1="14" x2="23" y2="14"/>
+    <line x1="1" y1="9" x2="4" y2="9"/>
+    <line x1="1" y1="14" x2="4" y2="14"/>
+  </g>
+  <text x="747" y="177" text-anchor="middle"
+    font-family="Arial,sans-serif" font-size="10" fill="#8b949e" letter-spacing="1.5">FOCUS</text>
+  <text x="747" y="198" text-anchor="middle"
+    font-family="Arial,sans-serif" font-size="20" font-weight="800" fill="#e6edf3">AI First</text>
+
+  <!-- Divider -->
+  <rect x="40" y="234" width="820" height="1" fill="#21262d"/>
+
+</g>
+</svg>

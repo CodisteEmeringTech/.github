@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 404 28" width="404" height="28">
+  <rect x="1" y="1" width="82" height="26" rx="13" fill="none" stroke="#0ea5e9" stroke-width="1.5"/>
+  <text x="42" y="18" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#0ea5e9">CSV / Excel</text>
+  <rect x="93" y="1" width="84" height="26" rx="13" fill="none" stroke="#0ea5e9" stroke-width="1.5"/>
+  <text x="135" y="18" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#0ea5e9">PDFs / Docs</text>
+  <rect x="187" y="1" width="94" height="26" rx="13" fill="none" stroke="#0ea5e9" stroke-width="1.5"/>
+  <text x="234" y="18" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#0ea5e9">Audio / Video</text>
+  <rect x="291" y="1" width="112" height="26" rx="13" fill="none" stroke="#0ea5e9" stroke-width="1.5"/>
+  <text x="347" y="18" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#0ea5e9">Real-time streams</text>
+</svg>

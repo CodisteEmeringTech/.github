@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 28" width="460" height="28">
+  <rect x="1" y="1" width="100" height="26" rx="13" fill="none" stroke="#ef4444" stroke-width="1.5"/>
+  <text x="51" y="18" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#ef4444">KPI dashboards</text>
+  <rect x="111" y="1" width="106" height="26" rx="13" fill="none" stroke="#ef4444" stroke-width="1.5"/>
+  <text x="164" y="18" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#ef4444">Real-time alerts</text>
+  <rect x="227" y="1" width="106" height="26" rx="13" fill="none" stroke="#ef4444" stroke-width="1.5"/>
+  <text x="280" y="18" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#ef4444">Model retraining</text>
+  <rect x="343" y="1" width="116" height="26" rx="13" fill="none" stroke="#ef4444" stroke-width="1.5"/>
+  <text x="401" y="18" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#ef4444">Continuous deploy</text>
+</svg>
