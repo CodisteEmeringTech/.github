@@ -255,6 +255,7 @@ Production-grade AI solutions built, tested, and deployed in real-world environm
 
 ---
 
+<!--
 ## AI DLC System Architecture
 
 <img src="./divider.svg" width="100%"/>
@@ -299,6 +300,7 @@ Production-grade AI solutions built, tested, and deployed in real-world environm
 </table>
 
 ---
+-->
 
 <div align="center">
 
