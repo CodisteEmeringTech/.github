@@ -14,7 +14,7 @@
   <tr>
     <td align="center" valign="middle" width="25%"><a href="https://www.codiste.com"><img src="https://img.shields.io/badge/codiste.com%20→-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/></a></td>
     <td align="center" valign="middle" width="25%"><a href="https://www.linkedin.com/company/codiste"><img src="https://img.shields.io/badge/LinkedIn%20→-000000?style=for-the-badge&logo=linkedin&logoColor=white"/></a></td>
-    <td align="center" valign="middle" width="25%"><a href="https://twitter.com/codiste_"><img src="https://img.shields.io/badge/Twitter%20→-000000?style=for-the-badge&logo=twitter&logoColor=white"/></a></td>
+    <td align="center" valign="middle" width="25%"><a href="https://x.com/codistepvtltd"><img src="https://img.shields.io/badge/Twitter%20→-000000?style=for-the-badge&logo=twitter&logoColor=white"/></a></td>
     <td align="center" valign="middle" width="25%"><a href="mailto:Nishant@codiste.com"><img src="https://img.shields.io/badge/Contact%20→-000000?style=for-the-badge&logo=gmail&logoColor=white"/></a></td>
   </tr>
 </table>
